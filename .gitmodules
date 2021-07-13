@@ -1,0 +1,3 @@
+[submodule "vme_cli"]
+	path = vme_cli
+	url = https://github.com/jaebak/vme_cli.git
